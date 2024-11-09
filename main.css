@@ -3,13 +3,22 @@ header {
 }
 h2 {
     font-size: 40px;
-    
+    color: pink;
 }
 p {
     font-size: 20px;
     font-weight: bold;
+    color: purple;
 }
 li {
     font-size: 20px;
     font-weight: bold;
+    color: orange;
 }
+h1 {
+    color: aqua;
+}
+.macbook {
+    border: 50px solid lightgray;
+}
+
